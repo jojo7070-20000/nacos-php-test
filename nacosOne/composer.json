@@ -1,0 +1,12 @@
+{
+    "name": "apple/nacos-php-test",
+    "authors": [
+        {
+            "name": "9999",
+            "email": "9999@xxx.com"
+        }
+    ],
+    "require": {
+        "alibaba/nacos": "^1.0"
+    }
+}
