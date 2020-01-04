@@ -1,0 +1,12 @@
+{
+    "name": "apple/nacos-two",
+    "authors": [
+        {
+            "name": "9999",
+            "email": "9999@xxx.com"
+        }
+    ],
+    "require": {
+        "zhwei/nacos-sdk-php": "dev-master"
+    }
+}

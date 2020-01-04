@@ -2,7 +2,7 @@
 
 use alibaba\nacos\Nacos;
 
-require_once __DIR__ . DIRECTORY_SEPARATOR . DIRECTORY_SEPARATOR . 'autoload.php';
+require_once __DIR__ . DIRECTORY_SEPARATOR . 'vendor' . DIRECTORY_SEPARATOR . 'autoload.php';
 
 const NACO_SERVER = "192.168.5.14";
 
